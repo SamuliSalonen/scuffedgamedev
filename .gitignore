@@ -1,0 +1,14 @@
+/site/build
+/site/build
+/server/build/static
+/site/build/static
+/site/build
+/site/static
+/server/build
+site/.env
+/build/static
+/site/src/Assets
+/static
+site/package-lock.json
+build/package-lock.json
+.vscode/settings.json

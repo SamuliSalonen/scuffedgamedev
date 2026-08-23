@@ -1,0 +1,11 @@
+services:
+  server:
+    build: .
+    ports:
+      - "8090:8080"
+    volumes:
+      - .:/app
+    environment:
+      PORT: 8080
+      STEAM_APP_ID: ${STEAM_APP_ID}
+    restart: unless-stopped
