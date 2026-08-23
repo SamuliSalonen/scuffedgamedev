@@ -1,12 +1,11 @@
-/site/build
-/site/build
+
 /server/build/static
 /site/build/static
 /site/build
 /site/static
 /server/build
 site/.env
-/build/static
+
 /site/src/Assets
 
 site/package-lock.json
