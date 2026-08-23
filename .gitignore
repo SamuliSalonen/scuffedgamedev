@@ -8,7 +8,7 @@
 site/.env
 /build/static
 /site/src/Assets
-/static
+
 site/package-lock.json
 build/package-lock.json
 .vscode/settings.json
