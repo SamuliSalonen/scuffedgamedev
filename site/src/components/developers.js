@@ -1,5 +1,6 @@
 import React from "react";
 import me from "../Assets/me.png";
+import marcus from "../Assets/marcus.jpg";
 import { FaGithub, FaLinkedin, FaXTwitter, FaTwitch } from "react-icons/fa6";
 const developers = [
     {
@@ -17,7 +18,7 @@ const developers = [
         id: 2,
         name: "Marcus Rose",
         role: "Designer",
-        avatar: "https://placehold.co/150x150?text=MR",
+        avatar: marcus,
         bio: "Designs immersive worlds,  and player progression.",
         socials: {
             twitch: "https://www.twitch.tv/blackmageuk",

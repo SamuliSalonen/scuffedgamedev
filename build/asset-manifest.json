@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/build/static/css/main.9dbe0833.css",
-    "main.js": "/build/static/js/main.f4696598.js",
+    "main.js": "/build/static/js/main.53d65bc1.js",
     "static/js/453.cb85d312.chunk.js": "/build/static/js/453.cb85d312.chunk.js",
     "static/media/combat2.mp4": "/build/static/media/combat2.4a5475ca5c556720558c.mp4",
     "static/media/combat3.mp4": "/build/static/media/combat3.a75ad81847c1f8a3c946.mp4",
@@ -10,6 +10,7 @@
     "static/media/punched.png": "/build/static/media/punched.e512c9afd8bfefbf61c7.png",
     "static/media/me.png": "/build/static/media/me.85242fbbe304fe362a0d.png",
     "static/media/progression.png": "/build/static/media/progression.e7637b08e54382a137b3.png",
+    "static/media/marcus.jpg": "/build/static/media/marcus.106d8cbec47b5b9a4bc1.jpg",
     "static/media/main-capsule.jpg": "/build/static/media/main-capsule.a03af83477ce6b5aa0c7.jpg",
     "static/media/ehglogo.png": "/build/static/media/ehglogo.ab57f30f322fba25f822.png",
     "static/media/monster1_2.png": "/build/static/media/monster1_2.d8f3a0ac2c1ec71311cc.png",
@@ -26,11 +27,11 @@
     "static/media/youtube.png": "/build/static/media/youtube.964a324d3748ea2f99a1.png",
     "index.html": "/build/index.html",
     "main.9dbe0833.css.map": "/build/static/css/main.9dbe0833.css.map",
-    "main.f4696598.js.map": "/build/static/js/main.f4696598.js.map",
+    "main.53d65bc1.js.map": "/build/static/js/main.53d65bc1.js.map",
     "453.cb85d312.chunk.js.map": "/build/static/js/453.cb85d312.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dbe0833.css",
-    "static/js/main.f4696598.js"
+    "static/js/main.53d65bc1.js"
   ]
 }
